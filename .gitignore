@@ -1,0 +1,8 @@
+teste/
+build/
+dist/
+prototipo
+config.json
+clean.sh
+.vscode
+run.sh
